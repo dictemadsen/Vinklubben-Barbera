@@ -1,5 +1,5 @@
 # About side
 
-## Her kan du læse mere om vinklubben Merlot
+## Her kan du læse mere om vinklubben 
 
-vi drikker meget vin
+vi drikker meget vin, især fra Italien. Den brølende slags. 
