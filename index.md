@@ -1,9 +1,12 @@
 {% include navigation.html %}
 
 ## Velkommen til Vinklubben 
-:thumbsup: :wine_glass:
 
 ![Vino](/pictures/vin.png)
+
+:heart_eyes:
+:wine_glass:
+
 
 You can use the [editor on GitHub](https://github.com/dictemadsen/hjemmeside/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
