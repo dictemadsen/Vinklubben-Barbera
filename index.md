@@ -1,6 +1,7 @@
 {% include navigation.html %}
 
-## Velkommen til Vinklubben :thumbsup: :wine_glass:
+## Velkommen til Vinklubben 
+:thumbsup: :wine_glass:
 
 ![Vino](/pictures/vin.png)
 
