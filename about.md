@@ -5,4 +5,4 @@
 
 Vi drikker meget vin, især fra Italien. Den brølende slags. 
 
-![Image](src)
+![Image](/pictures/maxresdefault.jpg)
