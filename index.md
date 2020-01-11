@@ -2,7 +2,7 @@
 
 ## Velkommen til Vinklubben
 
-![Image](https://github.com/dictemadsen/Vinklubben-Barbera/blob/master/pictures/vin.png)
+![Vino](https://github.com/dictemadsen/Vinklubben-Barbera/blob/master/pictures/vin.png)
 
 You can use the [editor on GitHub](https://github.com/dictemadsen/hjemmeside/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
