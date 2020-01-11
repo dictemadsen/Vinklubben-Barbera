@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-## Velkommen til Vinklubben-Barbera
+## Velkommen til Vinklubben
 
 ![Image](https://github.com/dictemadsen/Vinklubben-Barbera/blob/master/pictures/vin.png)
 
